@@ -5,3 +5,4 @@ description = "Secure Coding Rules for Claude Code with a particular emphasis on
 requires-python = ">=3.10"
 # clarify the control flow
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
